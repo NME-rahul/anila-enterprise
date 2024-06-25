@@ -4,7 +4,7 @@ body {
     padding: 0;
     color: #333;
     line-height: 1.6;
-    background: url("anila-enterprise/bground.jpg") no-repeat center center fixed;
+    background: url("anila-enterprise/images/bground.jpg") no-repeat center center fixed;
     background-size: cover;
     background-blend-mode: overlay;
 }
