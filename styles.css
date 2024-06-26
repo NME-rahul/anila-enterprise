@@ -18,7 +18,7 @@ header {
 }
 
 .logo img {
-    max-width: 150px;
+    max-width: 70px;
     height: auto;
     margin-left: 20px;
 }
@@ -139,6 +139,7 @@ footer {
     cursor: pointer;
     border: none;
 }
+
 #contact {
     text-align: center;
 }
